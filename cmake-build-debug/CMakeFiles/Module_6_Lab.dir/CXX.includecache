@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/markd/CLionProjects/Module 6 Lab/ItemToPurchase.cpp
+iostream
+-
+ItemToPurchase.h
+C:/Users/markd/CLionProjects/Module 6 Lab/ItemToPurchase.h
+
+C:/Users/markd/CLionProjects/Module 6 Lab/ItemToPurchase.h
+string
+-
+
+C:/Users/markd/CLionProjects/Module 6 Lab/ShoppingCart.cpp
+iostream
+-
+string
+-
+vector
+-
+ItemToPurchase.h
+C:/Users/markd/CLionProjects/Module 6 Lab/ItemToPurchase.h
+ShoppingCart.h
+C:/Users/markd/CLionProjects/Module 6 Lab/ShoppingCart.h
+
+C:/Users/markd/CLionProjects/Module 6 Lab/ShoppingCart.h
+iostream
+-
+string
+-
+vector
+-
+ItemToPurchase.h
+C:/Users/markd/CLionProjects/Module 6 Lab/ItemToPurchase.h
+
+C:/Users/markd/CLionProjects/Module 6 Lab/main.cpp
+iostream
+-
+iomanip
+-
+ShoppingCart.h
+C:/Users/markd/CLionProjects/Module 6 Lab/ShoppingCart.h
+

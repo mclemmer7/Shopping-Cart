@@ -1,0 +1,3 @@
+C:/Users/markd/CLionProjects/Module 6 Lab/cmake-build-debug/CMakeFiles/Module_6_Lab.dir
+C:/Users/markd/CLionProjects/Module 6 Lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/markd/CLionProjects/Module 6 Lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
